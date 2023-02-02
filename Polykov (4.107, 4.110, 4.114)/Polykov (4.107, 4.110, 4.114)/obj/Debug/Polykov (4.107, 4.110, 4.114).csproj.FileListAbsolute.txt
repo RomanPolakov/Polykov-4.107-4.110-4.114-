@@ -1,0 +1,6 @@
+C:\Users\polak\source\repos\Polykov (4.107, 4.110, 4.114)\Polykov (4.107, 4.110, 4.114)\bin\Debug\Polykov (4.107, 4.110, 4.114).exe.config
+C:\Users\polak\source\repos\Polykov (4.107, 4.110, 4.114)\Polykov (4.107, 4.110, 4.114)\bin\Debug\Polykov (4.107, 4.110, 4.114).exe
+C:\Users\polak\source\repos\Polykov (4.107, 4.110, 4.114)\Polykov (4.107, 4.110, 4.114)\bin\Debug\Polykov (4.107, 4.110, 4.114).pdb
+C:\Users\polak\source\repos\Polykov (4.107, 4.110, 4.114)\Polykov (4.107, 4.110, 4.114)\obj\Debug\Polykov (4.107, 4.110, 4.114).csproj.CoreCompileInputs.cache
+C:\Users\polak\source\repos\Polykov (4.107, 4.110, 4.114)\Polykov (4.107, 4.110, 4.114)\obj\Debug\Polykov (4.107, 4.110, 4.114).exe
+C:\Users\polak\source\repos\Polykov (4.107, 4.110, 4.114)\Polykov (4.107, 4.110, 4.114)\obj\Debug\Polykov (4.107, 4.110, 4.114).pdb
